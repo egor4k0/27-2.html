@@ -1,6 +1,12 @@
 body{
-    background-color: rgb(74, 74, 226);
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(35,74,200,1) 100%);
+
     font-family: sans-serif;
+    display: grid;
+      grid-template-rows: 1fr auto;
+      min-height: 100vh;
+      margin: 0;
 }
 .header1{
     display: flex;
@@ -92,4 +98,7 @@ footer a {
 .af1:hover{
     background-color: #162d3b;
     opacity:0.8;
+}
+footer{
+    margin-bottom: 0px;
 }
