@@ -19,7 +19,11 @@ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(35,74,200,1) 100%)
     width: auto;
     border-radius: 5px;
 }
-
+.imlog{
+    margin-left:25%;
+    margin-top: 20px;
+    
+}
 .object1{
     justify-content:start;
     width: 60px;
@@ -100,5 +104,4 @@ footer a {
     opacity:0.8;
 }
 footer{
-    margin-bottom: 0px;
-}
+}я
